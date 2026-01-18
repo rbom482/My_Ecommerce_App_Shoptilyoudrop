@@ -126,5 +126,5 @@ This keeps the application modular and easy to maintain.
 
 ## 👩‍💻 Author
 
-**Becca**
+**Rebecca B.**
 Built as part of a React coursework project to demonstrate front-end development fundamentals.
