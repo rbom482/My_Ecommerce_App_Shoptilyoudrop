@@ -35,6 +35,15 @@ function Cart({ cart, products, removeFromCart }) {
             ))}
           </ListGroup>
 
+          <Button
+  className="pastel-btn-success w-100 mt-4"
+  size="lg"
+  onClick={() => alert("Checkout successful! (Demo only)")}
+>
+  Proceed to Checkout
+</Button>
+
+
           <Card.Footer className="cart-footer">
             <strong>Total: ${total.toFixed(2)}</strong>
           </Card.Footer>

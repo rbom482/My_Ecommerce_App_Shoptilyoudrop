@@ -115,3 +115,29 @@
 h4 {
   color: #4b2e6b;
 }
+/* Pastel Theme */
+.text-purple {
+  color: #6f42c1;
+}
+
+/* Primary pastel button */
+.pastel-btn {
+  background-color: #f4a6c1;
+  border: none;
+  color: #fff;
+}
+
+.pastel-btn:hover {
+  background-color: #e38ab0;
+}
+
+/* Success / checkout button */
+.pastel-btn-success {
+  background-color: #b48ddb;
+  border: none;
+  color: #fff;
+}
+
+.pastel-btn-success:hover {
+  background-color: #9f74cf;
+}
